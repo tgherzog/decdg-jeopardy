@@ -1,0 +1,278 @@
+﻿GenderStats
+Public Private Partnerships
+Null Hypothesis
+Imputation
+Alden Winship Clausen
+Technical Assistance (TA)
+Mahmoud Mohieldin
+United Nations Office on Drugs and Crime (UNODC)
+Quintile
+Health expenditure
+George David Woods 
+James Wolfensohn 
+Developing Country
+Gross Domestic Product (GDP)
+Sample Size
+Exponential growth rate
+Unweighted average
+Global Economic Monitor (GEM)
+Keiko Honda
+Growth rates 
+Confounding Factor
+Correlation coefficient
+Trust Fund (TF)
+Primary school enrollment
+Sean Thomas McGrath
+Lewis Preston 
+Anne-Marie Leroy
+Eugene Meyer 
+Jobs
+DHL
+International Development Association (IDA)
+Pie chart
+National Accounts
+Global Economic Prospects
+Barber Conable 
+Concept Note (CN)
+Geospatial data
+World Resources Institute (WRI)
+Jim Yong Kim
+Latin America and Caribbean (LAC)
+Poverty
+Permutation
+Salary Review Increase (ISR)
+Vice President (VP)
+Millennium Development Goal (MDG)
+Developers community
+Binomial Distribution
+United Nations Department of Peacekeeping Operations (DPKO)
+Social Protection & Labor
+Calendar Year (CY)
+Normal Distribution
+Carbon Dioxide Information Analysis Center (CDIAC)
+World Bank Group (WB/WBG)
+Household survey
+World Trade Organization (WTO)
+Time series
+GDP per capita
+Water
+Donut chart
+Netcraft
+Regional Operations Committee (ROC)
+International Labour Organization (ILO)
+Public data
+Gender
+Working Paper (WP)
+Sanjay Pradhan
+Inter-American Development Bank (IADB)
+National Science Foundation (NSF)
+Open government
+International Debt Statistics (IDS)
+Employment
+Project Appraisal Document (PAD)
+Multilateral Investment Guarantee Agency (MIGA)
+Sustainable Development
+Balance of Payments (BOP)
+Independent variable
+Migration and Remittances
+Consumer Price Index (CPI)
+International Comparison of Prices (ICP)
+Foreign Direct Investment (FDI)
+Multilateral Development Bank (MDB)
+United Nations Conference on Trade and Development (UNCTAD)
+Scatter plot
+International Bank for Reconstruction and Development (IBRD)
+Secondary school enrollment
+Extrapolation
+Transport & ICT
+Bank Budget (BB)
+Column chart
+African Development Bank (AFDB)
+Robert Zoellick
+Fragility, Conflict & Violence
+Memorandum of Understanding (MOU)
+Human Development Index (HDI)
+Organisation for Economic Co-operation and Development (OECD)
+Food and Agriculture Organization (FAO)
+World Conservation Monitoring Centre (UNEP-WCMC)
+Weighted average
+International Finance Corporation (IFC)
+Sustainable Energy for All (SE4All)
+Bar chart
+Histogram
+United Nations (UN)
+United Nations Industrial Development Organization (UNIDO)
+Global Partnership for Education (GPE)
+Population Census
+SDR deflator
+Conditional Probability
+Pricewaterhouse Coopers
+Worldwide Governance Indicators (WGI)
+Economies in Transition (EIT)
+Living Standards Measurement Study (LSMS)
+Leave and Attendance Recording System (LARS)
+Exchange Rate
+South Asia (SA)
+Country Partnership Framework (CPF)
+World Development Indicators (WDI)
+Probability
+Finance & Markets
+Median
+Mean
+International Monetary Fund (IMF)
+United Nations Office of the High Commissioner for Refugees (UNHCR)
+World Intellectual Property Organization (WIPO)
+Containerisation International
+Internal Displacement Monitoring Centre (IDMC)
+World Economic Forum (WEF)
+Country Director (CD)
+Tree map
+Equation
+Population growth
+Least squares growth rate
+Geometric growth rate
+Fiscal Year (FY)
+Official Exchange Rates
+Special Data Dissemination Standard (SDDS)
+Chief Economist
+Health Nutrition & Population (HNP) Statistics
+Line chart
+World Tourism Organization (UNWTO)
+Health, Nutrition & Population
+Random Sample
+PovCalNet
+United Nations Environment Programme (UNEP)
+Asian Development Bank (ADB)
+Video Conference (VC)
+Bubble chart
+Heavily Indebted Country (HIC)
+Correlation
+Open Data
+Robert Strange McNamara 
+Gross National Income (GNI)
+Bretton Woods Agreements
+Statement of Objectives (SOE)
+Yvonne Tsikata
+Education
+Alternate Work Schedule (AWS)
+Confidence Interval
+Doing Business
+System of National Accounts (SNA)
+Life expectancy
+Macro data
+Joint External Debt Hub
+Big data
+Climate Change
+Upsalla Conflict Data Program (UCDP)
+Labor force
+Stockholm International Peace Research Institute (SIPRI)
+World Health Organization (WHO)
+Quarterly Public Sector Debt (QPSD)
+Statement of Mission Objectives (SMO)
+Kyle Peters
+International Telecommunication Union (ITU)
+Electricity consumption
+World Development Report (WDR)
+Standard deviation
+Time Recording (or Management) System (TRS)
+Databank
+Terms of Reference (TOR)
+Dummy Variable
+GNI per capita
+Macroeconomics & Fiscal Management
+Vital registration system
+Back to Office Report (BTOR)
+Close of Business (COB)
+Governance
+High Income Country (HIC)
+Atlas method
+Infant mortality rate
+Categorical data
+Service Delivery Indicators (SDI)
+Reference year 
+Bayes' Theorem
+Tertiary school enrollment
+GDP Deflator
+Little Data Book
+Country Partnership Strategy (CPS)
+Implementation Status & Results (ISR)
+Data Quality Assessment Framework (DQAF)
+Fertility Rate
+Sub Saharan Africa (SSA)
+Birth Rate
+United Nations Children's Fund (UNICEF)
+Europe and Central Asia (ECA)
+Poverty Headcount Ratio
+Bertrand Badré
+Development Policy Lending (DPL)
+Type II Error
+Paul Wolfowitz
+Total Population
+Cyril Muller
+United Nations Centre for Human Settlements, Global Urban Observatory (UN-Habitat, GUO)
+Standard & Poors
+Data revolution
+Mortality rate
+Environment & Natural Resources
+International Civil Aviation Organization (ICAO)
+Venn Diagram
+International Road Federation (IRF)
+Population density
+Middle East and North Africa (MENA)
+Energy & Extractives
+Unemployment
+Greenhouse Gas (GHG)
+Annual Leave
+Global Financial Inclusion Database (FINDEX)
+Household final consumption
+GINI index
+Microdata
+Micro data
+Eugene Robert Black 
+Shared prosperity
+Country Policy and Institutional Assessment (CPIA)
+Discrete Variable
+International Institute for Strategic Studies (ISS)
+CO2 emissions
+Quarterly External Debt Statistics
+Machine readable 
+International Center for Settlement of Investment Disputes (ICSID)
+Area chart
+International Aid Transparency Initiative (IATI)
+Literacy Rate
+Scatterplot
+Analysis of Variance (ANOVA)
+Sri Mulyani Indrawati
+Application Programming Interface (API)
+Task Team Leader (TTL)
+Administrative Manual Statement (AMS)
+Local Currency Unit (LCU)
+Capacity Building
+Type I Error
+East Asia and Pacific (EAP)
+International Energy Agency (IEA)
+Purchasing Power Parity (PPP)
+Interest Rate
+Jin-Yong Cai
+United Nations Educational, Scientific, and Cultural Organization, Institute for Statistics (UNESCO)
+Current account balance
+Outlier
+Social, Urban, Rural & Resilience
+Live Database (LDB)
+Atlas of Social Protection: Indicators of Resilience and Equity (ASPIRE)
+Central Limit Theorem
+National Statistical Office (NSO)
+Public Private Partnership (PPP)
+Understanding Children's Work (UCW)
+Country Management Unit (CMU)
+Home Based Work (HBW)
+Inflation
+EdStats
+Kaushik Basu
+Low Income Country (LIC)
+Middle Income Country (MIC)
+Alternative conversion factor 
+Trade & Competitiveness
+Base year 
+John Jay McCloy 
+Continuous data

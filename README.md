@@ -1,3 +1,54 @@
+
+This project is a variation of the Big presentation system described below,
+hacked for a Jeopardy-style game used by DECDG.
+
+There are three user-facing files:
+
+* /index.html: the Jeopardy game.
+* /master-sheet.html: prints the Jeopardy questions and answers
+* /taboo.html: based on the popular party game
+
+## Control Files ##
+
+#### Jeopardy ####
+
+`jeopardy.txt` is a tab-separated text file that contains the game questions
+in the order they should be read. The first row is a header and is ignored. The
+column layout is:
+
+1. Person's name, i.e., who the question is about
+2. Theme: appears in the upper left corner of the screen
+3. Answer
+4. Question (this is Jeopardy, so players respond in the form of a question). If blank,
+   this autocompletes with "Who is [person's name]?"
+5. Filename: optional, it should be a valid filename in the images directory. This image
+   will be displayed in lieu of the question for picture categories.
+6. Status
+
+Questions without a name, theme, or for which status=0 will be ignored.
+
+Additional columns will be ignored. For instance, you might include a sort column to facilitate
+random sorting in Excel before writing out the control file.
+
+#### Taboo ####
+
+`taboo.txt` is just a simple text file with one clue per line.
+
+#### Game Instructions ####
+
+Each game contains player instructions in the corresponding HTML file, which you might want to
+adjust depending on your need.
+
+## Sound Effects ##
+
+* **z** - buzzer
+* **b** - bell
+
+
+-----
+
+(Original readme follows...)
+
 This is a ridiculous presentation system that works great for
 creative, hurried people. See [the demo](http://macwright.org/big/demo.html)
 for an example of it working.

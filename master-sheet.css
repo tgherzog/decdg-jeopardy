@@ -1,0 +1,50 @@
+
+body {
+  font-family: Arial,sans-serif;
+  font-size: 1em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+th, td {
+  padding: 3px 1em;
+}
+
+
+th {
+  vertical-align: bottom;
+  text-align: left;
+}
+
+td {
+  vertical-align: top;
+  text-align: left;
+}
+
+th:first-child, td:first-child {
+  text-align: center;
+  width: 10%;
+}
+
+th:nth-child(2), td:nth-child(2) {
+  width: 20%;
+}
+
+th:nth-child(3), td:nth-child(3) {
+  width: 35%;
+}
+
+td, th {
+  page-break-inside: avoid;
+}
+
+tr:nth-child(odd) {
+  background: #eee;
+}

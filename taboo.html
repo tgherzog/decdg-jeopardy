@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DECDG Taboo!</title>
+<meta charset='utf-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<script type="text/javascript" src="jquery.js"></script>
+<link href='big.css' rel='stylesheet' type='text/css' />
+<link href='jeopardy.css' rel='stylesheet' type='text/css' />
+<script src='big.js'></script>
+<script src='taboo.js'></script>
+</head>
+<body>
+<p id="theme"></p>
+<p id="timer"></p>
+
+<div><p>Taboo!</p><p class="half">Press the right arrow key to begin</p></div>
+<div theme="Instructions" class="instructions" data-nobig="1">
+<ul>
+<li>Designated guesser guesses as many clues as he/she can from clues given by the rest of the team</li>
+<li>2-minute rounds</li>
+<li>Cannot use any word or acronym on the screen</li>
+<li>Yell &ldquo;Pass!&rdquo; to skip to the next clue (3&nbsp;passes allowed)</li>
+</ul>
+</div>
+
+<div><p>Taboo!</p></div>
+
+<audio id="buzzer" src="buzz.mp3" style="display: none"></audio>
+<audio id="dinger" src="ding.mp3" style="display: none"></audio>
+<audio id="horn"   src="horn.mp3" style="display: none"></audio>
+</body>
+</html>

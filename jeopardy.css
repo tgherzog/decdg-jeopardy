@@ -1,0 +1,68 @@
+
+body {
+  margin: 100px 0 0;
+  position: relative;
+  letter-spacing: -1px;
+}
+
+body.opening {
+  background: #00f;
+  color: white;
+}
+
+div {
+  text-align: center;
+}
+
+div.instructions {
+ font-size: 52px;
+ text-align: left;
+ line-height: 100%;
+}
+
+div.instructions em {
+  color: #aaf;
+}
+
+div.instructions li {
+  margin-bottom: 0.25em;
+}
+
+div.image {
+  font-size: 72px;
+}
+
+div img {
+  display: block;
+  width: 400px;
+  margin-right: 40px;
+  float: left;
+}
+
+#theme {
+  font-size: 65px;
+  margin-bottom: 2em;
+  position: absolute;
+  left: 20px;
+  top: -80px;
+  color: #aaf;
+}
+
+#timer {
+  font-size: 65px;
+  position: absolute;
+  right: 20px;
+  top: -80px;
+  color: #f33;
+}
+
+p.half { font-size: 0.5em; }
+
+em {
+  color: #00c;
+}
+
+body.question {
+  background: #eee;
+  color: #333;
+}

@@ -1,4 +1,7 @@
-window.onload = function() {
+function makeItBig() {
+var topMargin = 100;  // top of page buffer space
+var minTxtSize = 72;  // minimum text size (pixels)
+
     var s = document.getElementsByTagName('div'), ti;
     if (!s) return;
     big = { current: 0, forward: fwd, reverse: rev, go: go, length: s.length };
@@ -8,7 +11,7 @@ window.onload = function() {
         document.body.className = e.dataset.bodyclass || '';
         for (var k = 0; k < s.length; k++) s[k].style.display = 'none';
         e.style.display = 'inline';
-        e.style.fontSize = i + 'px';
+/*
         if (e.firstChild && e.firstChild.nodeName === 'IMG') {
             document.body.style.backgroundImage = 'url(' + e.firstChild.src + ')';
             e.firstChild.style.display = 'none';
@@ -17,22 +20,32 @@ window.onload = function() {
             document.body.style.backgroundImage = '';
             document.body.style.backgroundColor = e.style.backgroundColor;
         }
+*/
         if (ti !== undefined) window.clearInterval(ti);
         if (t > 0) ti = window.setTimeout(fwd, (t * 1000));
-        while ((e.offsetWidth > window.innerWidth ||
-            e.offsetHeight > window.innerHeight) && i >= 0) {
-            e.style.fontSize = (i -= 2) + 'px';
+
+	var iW = window.innerWidth, iH = window.innerHeight - topMargin;
+	if(  e.dataset.nobig != 1 ) {
+	  e.style.fontSize = i + 'px';
+	  while ((e.offsetWidth > iW ||
+	      e.offsetHeight > iH) && i > minTxtSize ) {
+	      e.style.fontSize = (i -= 2) + 'px';
+	  }
         }
-        e.style.marginTop = ((window.innerHeight - e.offsetHeight) / 2) + 'px';
+
+        e.style.marginTop = ((iH - e.offsetHeight) / 2) + 'px';
         if (window.location.hash !== n) window.location.hash = n;
-        document.title = e.textContent || e.innerText;
+
+        // document.title = e.textContent || e.innerText;
+	if( window.updateTheme ) updateTheme(e);
     }
-    document.onclick = function() { go(++big.current % (s.length)); };
+    // document.onclick = function() { go(++big.current % (s.length)); };
     function fwd() { go(Math.min(s.length - 1, ++big.current)); }
     function rev() { go(Math.max(0, --big.current)); }
     document.onkeydown = function(e) {
         if (e.which === 39 || e.which === 34 || e.which === 40) fwd();
         if (e.which === 37 || e.which === 33 || e.which === 38) rev();
+		else keyHandler(e.which);
     };
     document.ontouchstart = function(e) {
         var x0 = e.changedTouches[0].pageX;

@@ -1,0 +1,4 @@
+Name	Theme	Answer	Question	File	Order	Status	Tier	ShortList
+Tariq Khokhar	Brushes With Greatness	This person once partied with Keira Knightley (before she was famous)			0.158779279		2	1
+Tim Herzog	Tender years			herzog2.jpg	0.535963241		1	1
+Amparo Ballivian	"Secret, Super Skills "	This person can say entire phrases backward (in native language) without a written text.			0.608079074		2	1
